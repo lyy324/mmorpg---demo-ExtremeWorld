@@ -1,0 +1,265 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "DisplayName": null,
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2,
+        3
+      ],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "ScriptAssemblies",
+      "DisplayName": null,
+      "Inputs": [],
+      "Outputs": [],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 1
+    },
+    {
+      "Annotation": "BuildPlayerDataGenerator Library/BuildPlayerData/Editor/TypeDb-All.json",
+      "DisplayName": "BuildPlayerDataGenerator TypeDb-All",
+      "Action": "\"D:/unity/2022.3.62f3c1/Editor/Data\\Tools\\netcorerun\\netcorerun.exe\" \"D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Assets\\JsonDotNet\\Assemblies\\Standalone\\Newtonsoft.Json.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Assets\\References\\Common.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Assets\\References\\log4net.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Assets\\References\\protobuf-net.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Assets\\References\\protobuf-net.Reflection.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Assets\\References\\Protocol.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\ScriptAssemblies\\Assembly-CSharp.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\ScriptAssemblies\\Unity.AI.Navigation.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\ScriptAssemblies\\Unity.TextMeshPro.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\ScriptAssemblies\\Unity.Timeline.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\ScriptAssemblies\\UnityEngine.SpatialTracking.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\ScriptAssemblies\\UnityEngine.TestRunner.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\ScriptAssemblies\\UnityEngine.UI.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\ScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll\" -a=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\\nunit.framework.dll\" -s=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Assets\\JsonDotNet\\Assemblies\\Standalone\" -s=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Assets\\References\" -s=\"D:\\unity\\2022.3.62f3c1\\Editor\\Data\\Managed\\UnityEngine\" -s=\"D:\\unity\\2022.3.62f3c1\\Editor\\Data\\UnityReferenceAssemblies\\unity-4.8-api\" -s=\"D:\\unity\\2022.3.62f3c1\\Editor\\Data\\UnityReferenceAssemblies\\unity-4.8-api\\Facades\" -s=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\ScriptAssemblies\" -s=\"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\PackageCache\\com.unity.ext.nunit@1.0.6\\net35\\unity-custom\" -o=\"Library/BuildPlayerData/Editor\" -rn=\"\" -tn=\"TypeDb-All.json\"",
+      "Inputs": [
+        "D:/unity/2022.3.62f3c1/Editor/Data/Tools/netcorerun/netcorerun.exe",
+        "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPlayerDataGenerator/BuildPlayerDataGenerator.exe",
+        "Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll",
+        "Assets/References/Common.dll",
+        "Assets/References/log4net.dll",
+        "Assets/References/protobuf-net.dll",
+        "Assets/References/protobuf-net.Reflection.dll",
+        "Assets/References/Protocol.dll",
+        "Library/ScriptAssemblies/Assembly-CSharp.dll",
+        "Library/ScriptAssemblies/Unity.AI.Navigation.dll",
+        "Library/ScriptAssemblies/Unity.TextMeshPro.dll",
+        "Library/ScriptAssemblies/Unity.Timeline.dll",
+        "Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll",
+        "Library/ScriptAssemblies/UnityEngine.TestRunner.dll",
+        "Library/ScriptAssemblies/UnityEngine.UI.dll",
+        "Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll",
+        "Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+      ],
+      "Outputs": [
+        "Library/BuildPlayerData/Editor/TypeDb-All.json"
+      ],
+      "AllowUnexpectedOutput": true,
+      "Env": [],
+      "DebugActionIndex": 2
+    },
+    {
+      "Annotation": "ScriptAssembliesAndTypeDB",
+      "DisplayName": null,
+      "Inputs": [],
+      "Outputs": [],
+      "ToBuildDependencies": [
+        1,
+        2
+      ],
+      "OverwriteOutputs": false,
+      "DebugActionIndex": 3
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.BuildTools.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.Core.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.CSharpSupport.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.DotNet.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.NativeProgramSupport.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.Stevedore.Program.exe"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.TinyProfiler2.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.GNU.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.LLVM.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.VisualStudio.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.Toolchain.Xcode.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.Tools.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.TundraBackend.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Bee.VisualStudioSolution.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.Data.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/BeeBuildProgramCommon.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/BeeLocalCacheTool.exe"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/NiceIO.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.Data.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/PlayerBuildProgramLibrary.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.Data.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/ScriptCompilationBuildProgram.exe"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/SharpYaml.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.Api.Attributes.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Mdb.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Pdb.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.Cecil.Rocks.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Api.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.BuildLogic.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.Linker.Api.dll"
+    },
+    {
+      "File": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline/Unity.Options.dll"
+    },
+    {
+      "File": "Library/Bee/1900b0aEDbgSkipCompile-inputdata.json"
+    }
+  ],
+  "StatSignatures": [
+    {
+      "File": "Assets/csc.rsp"
+    },
+    {
+      "File": "Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll"
+    },
+    {
+      "File": "Assets/mcs.rsp"
+    },
+    {
+      "File": "Assets/References/Common.dll"
+    },
+    {
+      "File": "Assets/References/log4net.dll"
+    },
+    {
+      "File": "Assets/References/protobuf-net.dll"
+    },
+    {
+      "File": "Assets/References/protobuf-net.Reflection.dll"
+    },
+    {
+      "File": "Assets/References/Protocol.dll"
+    },
+    {
+      "File": "Library/Bee/1900b0aEDbgSkipCompile-inputdata.json"
+    },
+    {
+      "File": "Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Assembly-CSharp.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.AI.Navigation.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.TextMeshPro.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/Unity.Timeline.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/UnityEngine.TestRunner.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/UnityEngine.UI.dll"
+    },
+    {
+      "File": "Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "D:/unity/2022.3.62f3c1/Editor/Data/Tools/BuildPipeline"
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".csproj",
+    ".pdb"
+  ],
+  "StructuredLogFileName": "Library/Bee/tundra.log.json",
+  "StateFileName": "Library/Bee/TundraBuildState.state",
+  "StateFileNameTmp": "Library/Bee/TundraBuildState.state.tmp",
+  "StateFileNameMapped": "Library/Bee/TundraBuildState.state.map",
+  "ScanCacheFileName": "Library/Bee/tundra.scancache",
+  "ScanCacheFileNameTmp": "Library/Bee/tundra.scancache.tmp",
+  "DigestCacheFileName": "Library/Bee/tundra.digestcache",
+  "DigestCacheFileNameTmp": "Library/Bee/tundra.digestcache.tmp",
+  "CachedNodeOutputDirectoryName": "Library/Bee/CachedNodeOutput",
+  "EmitDataForBeeWhy": 0,
+        "NamedNodes": {
+          "all_tundra_nodes": 0,
+          "ScriptAssemblies": 1,
+          "ScriptAssembliesAndTypeDB": 3
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "Library/Bee/1900b0aEDbgSkipCompile.dag.json",
+  "PayloadsFile": "D:/AAA - game -project/mmorpg/Src/Client/Library/Bee/1900b0aEDbgSkipCompile.dag.payloads",
+  "RelativePathToRoot": "../.."
+}

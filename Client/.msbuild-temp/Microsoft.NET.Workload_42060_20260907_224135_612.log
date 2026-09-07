@@ -1,0 +1,18 @@
+[2026-09-07 22:41:35.614] [0000A44C] === Logging started ===
+[2026-09-07 22:41:35.630] [0000A44C] Executing: "C:\Program Files\dotnet\dotnet.exe" build Client.sln --no-restore, PID: 42060, PPID: 39808
+[2026-09-07 22:41:35.636] [0000A44C] IsElevated: False
+[2026-09-07 22:41:35.636] [0000A44C] Is64BitProcess: True
+[2026-09-07 22:41:35.636] [0000A44C] RebootPending: False
+[2026-09-07 22:41:35.636] [0000A44C] ProcessorArchitecture: amd64
+[2026-09-07 22:41:35.636] [0000A44C] HostArchitecture: x64
+[2026-09-07 22:41:35.636] [0000A44C] SdkDirectory: 10.0.400
+[2026-09-07 22:41:35.636] [0000A44C] VerifySignatures: False
+[2026-09-07 22:41:35.636] [0000A44C] SDK feature band: 10.0.400
+[2026-09-07 22:41:45.869] [0000A44C] ExtractManifestAsync: Extracting 'D:\AAA - game -project\mmorpg\Src\Client\.msbuild-temp\1mdbmnbd.i5i\microsoft.net.workloads.10.0.400.msi.x64\10.400.1\microsoft.net.workloads.10.0.400.msi.x64.10.400.1.nupkg' to 'C:\Users\34041\.dotnet\sdk-advertising\10.0.400\microsoft.net.workloads'
+[2026-09-07 22:41:45.870] [0000A44C] ExtractManifestAsync: Temporary extraction path: 'D:\AAA - game -project\mmorpg\Src\Client\.msbuild-temp\rwkpuxrm.cta'
+[2026-09-07 22:41:45.966] [0000A44C] ExtractManifestAsync: Running admin install for 'D:\AAA - game -project\mmorpg\Src\Client\.msbuild-temp\rwkpuxrm.cta\msi'.  Log file: 'D:\AAA - game -project\mmorpg\Src\Client\.msbuild-temp\Microsoft.NET.Workload_42060_20260907_224135_612_3631836b0c2e127d5c526708699d5a30-x64_AdminInstall.log'
+[2026-09-07 22:41:46.496] [0000A44C] ExtractManifestAsync: Admin install failed: 1639
+[2026-09-07 22:41:48.153] [0000A44C] Shutting down
+[2026-09-07 22:41:48.153] [0000A44C] Shutdown completed.
+[2026-09-07 22:41:48.153] [0000A44C] Restart required: False
+[2026-09-07 22:41:48.154] [0000A44C] === Logging ended ===

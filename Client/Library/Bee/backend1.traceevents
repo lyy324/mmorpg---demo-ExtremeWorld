@@ -1,0 +1,666 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1788800259092285, "dur":71, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259092392, "dur":1936, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259094346, "dur":764, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259095262, "dur":111, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1788800259095374, "dur":470, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259096207, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/03/03df7c668754c34690013d714f0beac5.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259097060, "dur":360, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/15/15d03fe2c57f3e087f4ef8b2c044aa50.iws.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259101935, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/52/52afdb43c6a53f1af4f8b92f9e8d261e.rgb" }}
+,{ "pid":12345, "tid":0, "ts":1788800259102615, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/5c/5cf09c763dc2ecc6ad71787b1b3e058e.rgb" }}
+,{ "pid":12345, "tid":0, "ts":1788800259103072, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/69/6906f0ae530d2bb5b66f0a2b3288d3fa.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1788800259103323, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/6e/6e5390e0f53e6765220a894e70b8e23b.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259103578, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/73/73e90d41b4c5fe214f2a0d51be428489.caw" }}
+,{ "pid":12345, "tid":0, "ts":1788800259104441, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/82/82e6bc7c13aecd1e02f096c83bf0818c.caw" }}
+,{ "pid":12345, "tid":0, "ts":1788800259105177, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/8a/8a3962acb2aa41fe491d65f3b603b467.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259107068, "dur":1829, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a5/a50489e5c81e3e96c34dde0445497e84.vis" }}
+,{ "pid":12345, "tid":0, "ts":1788800259109099, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a5/a5d7f5556064102867062972420a39e2.iws.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259109264, "dur":162, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a5/a5d7f5556064102867062972420a39e2.vis" }}
+,{ "pid":12345, "tid":0, "ts":1788800259109533, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a7/a7182272c0a8089a9862531ee3a1bc7a.rgb" }}
+,{ "pid":12345, "tid":0, "ts":1788800259109592, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a7/a7182272c0a8089a9862531ee3a1bc7a.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259109934, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ab/ab5bd0d363cacd25faae06bafe1aad64.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259110710, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b2/b2d75edeef556889e0d495367b778bce.vis" }}
+,{ "pid":12345, "tid":0, "ts":1788800259112792, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d8/d88ea3ed5ea772c96d85a281ff496ce5.caw" }}
+,{ "pid":12345, "tid":0, "ts":1788800259113391, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/e5/e5d89fd1af3ab5ea498aac649a01d60a.iws.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259114374, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/f9/f99d6cd32cb80b9925a4dfbf5a4ec14f.vis" }}
+,{ "pid":12345, "tid":0, "ts":1788800259114901, "dur":99, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/03/0310ea92fc40ae62ae392093f76c0e8b.rgb" }}
+,{ "pid":12345, "tid":0, "ts":1788800259115022, "dur":141, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/03/0310ea92fc40ae62ae392093f76c0e8b.vis" }}
+,{ "pid":12345, "tid":0, "ts":1788800259116607, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1a/1a8104bf58b8e000c839c39b6ac000ae.vis" }}
+,{ "pid":12345, "tid":0, "ts":1788800259117355, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/23/231b212b7c4e10eea6cb41ed977e3f3b.caw" }}
+,{ "pid":12345, "tid":0, "ts":1788800259117976, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/2d/2d4d8a11593b8524194b6e2743e4af9c.vis" }}
+,{ "pid":12345, "tid":0, "ts":1788800259118660, "dur":1720, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/3b/3bddfcfa9cdcac023b4a3ce10725fb51.vis" }}
+,{ "pid":12345, "tid":0, "ts":1788800259120968, "dur":121, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/41/412b5a44d5a1e6d130931971ae2a6a15.iws.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259121678, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/45/455cdcd23b501e650a090a8a0373f30e.caw" }}
+,{ "pid":12345, "tid":0, "ts":1788800259121801, "dur":104, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/45/455cdcd23b501e650a090a8a0373f30e.rgb" }}
+,{ "pid":12345, "tid":0, "ts":1788800259122300, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/46/465f7ead87fbc0da9d67f7f4b4d615e8.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259125503, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/78/78fd75c34b9726e75e0cac4017907807.iws.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259127656, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/99/99f365d0fc16d3e01e3a26dd8d87113d.rgb" }}
+,{ "pid":12345, "tid":0, "ts":1788800259129181, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a7/a7f7f812c531f63955812fe7a0f0483c.caw" }}
+,{ "pid":12345, "tid":0, "ts":1788800259129242, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a7/a7f7f812c531f63955812fe7a0f0483c.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1788800259129554, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ab/ab5bd0d363cacd25faae06bafe1aad64.rsc.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259129716, "dur":85, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ae/aee6e4f6b81a6062d72687caae142a29.rgb" }}
+,{ "pid":12345, "tid":0, "ts":1788800259131254, "dur":1999, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c0/c0ad3378af846db811c33fcec5dcb3e0.vis" }}
+,{ "pid":12345, "tid":0, "ts":1788800259133940, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/cd/cde227f4dcf3460a2e79b83efbf6a070.iws.sse" }}
+,{ "pid":12345, "tid":0, "ts":1788800259135439, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/e9/e98774ac1009b826a4bcda1c04d866f3.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1788800259135700, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ed/edfdf3412d4b3563d1442400eda0b03d.ecm" }}
+,{ "pid":12345, "tid":0, "ts":1788800259136813, "dur":91, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/level2" }}
+,{ "pid":12345, "tid":0, "ts":1788800259139599, "dur":263, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1788800259140757, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles D://demo/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1788800259095905, "dur":44906, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259140830, "dur":23062, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259163892, "dur":147, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259164040, "dur":93, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259164279, "dur":103, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259164279, "dur":103, "ph":"X", "name": "EmitBuildFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259164382, "dur":2041, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1788800259096376, "dur":44464, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1788800259140846, "dur":16142, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1788800259157010, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1788800259157314, "dur":283, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1788800259157312, "dur":2018, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1788800259159578, "dur":60, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/94/94668a0e1a434b743b865dc6a85a18ac.caw" }}
+,{ "pid":12345, "tid":1, "ts":1788800259159678, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/86/866b122276866449b90a0306b76dc448.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1788800259159807, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/78/78fd75c34b9726e75e0cac4017907807.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1788800259159986, "dur":286, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/78/78fd75c34b9726e75e0cac4017907807.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1788800259160320, "dur":266, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/56/56646697b322acab95c70aafdc64d756.caw" }}
+,{ "pid":12345, "tid":1, "ts":1788800259160722, "dur":216, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/3b/3b755db69ab2464f48a76f8241feb9ed.vis" }}
+,{ "pid":12345, "tid":1, "ts":1788800259161026, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/20/205bec9f957eea161572ee59fa53539f.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1788800259161183, "dur":158, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/18/18948be38e16928969a939d50f285dcf.vis" }}
+,{ "pid":12345, "tid":1, "ts":1788800259161422, "dur":342, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1788800259161764, "dur":271, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/01/01a209490a37a538a890cd7c3ca676c7.vis" }}
+,{ "pid":12345, "tid":1, "ts":1788800259162167, "dur":147, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/be/be2974b912ebe00f21f8484e70e06c65.ecm" }}
+,{ "pid":12345, "tid":1, "ts":1788800259162470, "dur":76, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a5/a54cd06188629cc36bcc54b4ce7b7369.rsc.sse" }}
+,{ "pid":12345, "tid":1, "ts":1788800259162556, "dur":103, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a2/a2ea997ed12a5c05e26d871c80f8e651.iws.sse" }}
+,{ "pid":12345, "tid":1, "ts":1788800259162725, "dur":94, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/8c/8c1469cf56d25c580803bfa05b74558b.vis" }}
+,{ "pid":12345, "tid":1, "ts":1788800259162834, "dur":136, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/82/82e6bc7c13aecd1e02f096c83bf0818c.caw" }}
+,{ "pid":12345, "tid":1, "ts":1788800259162992, "dur":298, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/5d/5d9fde11a9cc973bad0082f28fffcb99.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1788800259163302, "dur":54, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/40/402fe6f39702c996d2ea4b98239ae66c.rgb" }}
+,{ "pid":12345, "tid":1, "ts":1788800259163428, "dur":135, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/32/32f237568eb2595ed18a91c2eabd1f33.caw" }}
+,{ "pid":12345, "tid":1, "ts":1788800259163588, "dur":177, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/1c/1c8a3f65294c55e0d60eed0a91df7614.caw" }}
+,{ "pid":12345, "tid":1, "ts":1788800259163842, "dur":59, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259096386, "dur":44465, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259140856, "dur":508, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259141364, "dur":203, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259141568, "dur":341, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259141910, "dur":219, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259142130, "dur":188, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259142318, "dur":175, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259142494, "dur":189, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259142683, "dur":14592, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1788800259157375, "dur":118, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Messaging.dll" }}
+,{ "pid":12345, "tid":2, "ts":1788800259157541, "dur":781, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1788800259157540, "dur":782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1788800259158413, "dur":219, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/e9/e98774ac1009b826a4bcda1c04d866f3.caw" }}
+,{ "pid":12345, "tid":2, "ts":1788800259158721, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c9/c90ca19ecced75bb20faa8690b94aa78.vis" }}
+,{ "pid":12345, "tid":2, "ts":1788800259158787, "dur":167, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c1/c1bc5e0260b3ab282292840487191a9a.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1788800259159084, "dur":79, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/b2/b20c859b1c83bc9e9f4d5534cc903d26.caw" }}
+,{ "pid":12345, "tid":2, "ts":1788800259159285, "dur":162, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a4/a428e9206c972a735c5a23692ee0f0f1.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259159477, "dur":57, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/99/99f365d0fc16d3e01e3a26dd8d87113d.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259159558, "dur":70, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/94/948b96008bf24e49fd7e0127c6203359.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259159686, "dur":111, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/86/866b122276866449b90a0306b76dc448.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259159798, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/78/78fd75c34b9726e75e0cac4017907807.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259159973, "dur":94, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/74/74310939413b21a75701d1e032c8e3d7.vis" }}
+,{ "pid":12345, "tid":2, "ts":1788800259160111, "dur":135, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/6e/6e5390e0f53e6765220a894e70b8e23b.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259160279, "dur":117, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/56/567c2eb22035c33a305f017727f65d63.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259160422, "dur":136, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/51/5157a90127391214a45ee3010666f7aa.caw" }}
+,{ "pid":12345, "tid":2, "ts":1788800259160683, "dur":59, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/3e/3e0a59f4201e4d7b25ea4687278cf61f.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1788800259160768, "dur":124, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/38/38ee5eaa00ddaf67a48126d07ef9bb80.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1788800259160949, "dur":122, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/23/236dfb0de9dc20f579780c39178c5c9b.vis" }}
+,{ "pid":12345, "tid":2, "ts":1788800259161097, "dur":111, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1b/1be86a8ef5a90d5f30b1f5b9774236b2.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259161217, "dur":115, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/15/15d03fe2c57f3e087f4ef8b2c044aa50.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259161344, "dur":98, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/0d/0da5532d05b5dbb9b141b17503bac061.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259161443, "dur":286, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/01/01a209490a37a538a890cd7c3ca676c7.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259161765, "dur":129, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff06f044a9c51064a6e63ee63253dc7d.caw" }}
+,{ "pid":12345, "tid":2, "ts":1788800259161940, "dur":83, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/dc/dc3266a482912d8429f4e91ed75e87bf.ecm" }}
+,{ "pid":12345, "tid":2, "ts":1788800259162121, "dur":63, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/c1/c1bc5e0260b3ab282292840487191a9a.caw" }}
+,{ "pid":12345, "tid":2, "ts":1788800259162257, "dur":72, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b8/b84de6ebc319994c460800ba777705c2.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1788800259162372, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/af/af3e7bae38b6b7312ebe37e851e95cda.iws.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259162520, "dur":118, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a3/a3a9ccd9dcd55bf910bba19ab5e65901.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259162667, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/94/949dd0c2dbd1bdb3bace46910e4bf3c7.vis" }}
+,{ "pid":12345, "tid":2, "ts":1788800259162778, "dur":77, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/86/866b122276866449b90a0306b76dc448.rgb" }}
+,{ "pid":12345, "tid":2, "ts":1788800259163002, "dur":190, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/5c/5cf09c763dc2ecc6ad71787b1b3e058e.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259163306, "dur":187, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/3e/3e0a59f4201e4d7b25ea4687278cf61f.vis" }}
+,{ "pid":12345, "tid":2, "ts":1788800259163580, "dur":195, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/1c/1c8a3f65294c55e0d60eed0a91df7614.rsc.sse" }}
+,{ "pid":12345, "tid":2, "ts":1788800259163821, "dur":68, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1788800259096399, "dur":44462, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1788800259140868, "dur":458, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1788800259141327, "dur":192, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1788800259141520, "dur":183, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1788800259141703, "dur":1051, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1788800259142755, "dur":14407, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1788800259157392, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.IdentityModel.dll" }}
+,{ "pid":12345, "tid":3, "ts":1788800259157496, "dur":172, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/Mono.Data.Sqlite.dll" }}
+,{ "pid":12345, "tid":3, "ts":1788800259157877, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1788800259158050, "dur":141, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/level4" }}
+,{ "pid":12345, "tid":3, "ts":1788800259158388, "dur":50, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/e9/e98774ac1009b826a4bcda1c04d866f3.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259158489, "dur":137, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/de/decfd93e72c9d95d83f9c77cb9ce9ec2.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259158768, "dur":55, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c2/c258a7cee900517f95e69201fd1937f1.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259158841, "dur":137, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c0/c0ad3378af846db811c33fcec5dcb3e0.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259159099, "dur":61, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/af/afbe119b708963c18445525e60280c31.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259159249, "dur":83, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a5/a50489e5c81e3e96c34dde0445497e84.vis" }}
+,{ "pid":12345, "tid":3, "ts":1788800259159351, "dur":295, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a3/a3a9ccd9dcd55bf910bba19ab5e65901.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1788800259159690, "dur":103, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/86/866b122276866449b90a0306b76dc448.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1788800259159794, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/78/78fd75c34b9726e75e0cac4017907807.vis" }}
+,{ "pid":12345, "tid":3, "ts":1788800259159957, "dur":142, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/73/73e90d41b4c5fe214f2a0d51be428489.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259160132, "dur":122, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/69/6906f0ae530d2bb5b66f0a2b3288d3fa.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259160300, "dur":263, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/56/56646697b322acab95c70aafdc64d756.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259160572, "dur":193, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/45/4583f7d33d4518abeaeca180bfebd520.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1788800259160789, "dur":167, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/32/32f237568eb2595ed18a91c2eabd1f33.caw" }}
+,{ "pid":12345, "tid":3, "ts":1788800259160992, "dur":50, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/20/20660e5a5190f821c7e2658b1357a1dd.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259161053, "dur":105, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1c/1c8a3f65294c55e0d60eed0a91df7614.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259161325, "dur":68, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/0e/0e73fb608ffa50d672af369c71dc29c6.caw" }}
+,{ "pid":12345, "tid":3, "ts":1788800259161405, "dur":113, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/03/0310ea92fc40ae62ae392093f76c0e8b.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259161519, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff06f044a9c51064a6e63ee63253dc7d.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259161895, "dur":60, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/e5/e5d89fd1af3ab5ea498aac649a01d60a.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1788800259161967, "dur":74, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d8/d88ea3ed5ea772c96d85a281ff496ce5.caw" }}
+,{ "pid":12345, "tid":3, "ts":1788800259162050, "dur":166, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/cf/cf76017ecc29ca8140e16619f9336728.caw" }}
+,{ "pid":12345, "tid":3, "ts":1788800259162225, "dur":193, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ba/bab18e7473b077f726cb06d859bc90a0.ecm" }}
+,{ "pid":12345, "tid":3, "ts":1788800259162524, "dur":130, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a3/a3a9ccd9dcd55bf910bba19ab5e65901.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259162678, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/94/949dd0c2dbd1bdb3bace46910e4bf3c7.caw" }}
+,{ "pid":12345, "tid":3, "ts":1788800259162869, "dur":122, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/77/770dd283b6d42c7301cd5d7668e4c354.vis" }}
+,{ "pid":12345, "tid":3, "ts":1788800259163189, "dur":87, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/47/476621c82a3e7015d863121a4f66f0f0.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259163331, "dur":112, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/3c/3c7d519542f352297e6781b28afed78a.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259163453, "dur":168, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/2d/2d4d8a11593b8524194b6e2743e4af9c.iws.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259163722, "dur":60, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/0e/0e73fb608ffa50d672af369c71dc29c6.rsc.sse" }}
+,{ "pid":12345, "tid":3, "ts":1788800259163836, "dur":74, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259096469, "dur":44432, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259140908, "dur":453, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259141361, "dur":799, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259142160, "dur":285, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259142445, "dur":174, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259142619, "dur":193, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259142812, "dur":14446, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259157409, "dur":212, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1788800259157692, "dur":68, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\2022.3.62f3c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1788800259157690, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1788800259158056, "dur":218, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1788800259158339, "dur":55, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ed/edfdf3412d4b3563d1442400eda0b03d.vis" }}
+,{ "pid":12345, "tid":4, "ts":1788800259158513, "dur":148, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/dc/dc3266a482912d8429f4e91ed75e87bf.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1788800259159030, "dur":454, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/b4/b4087ead743fae47653f5842a077c83a.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1788800259159513, "dur":243, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/98/98fbc065c8bdf0460515d3f7b579149e.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1788800259159774, "dur":159, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259159952, "dur":220, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/74/74310939413b21a75701d1e032c8e3d7.caw" }}
+,{ "pid":12345, "tid":4, "ts":1788800259160184, "dur":540, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/5d/5d9fde11a9cc973bad0082f28fffcb99.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1788800259160796, "dur":290, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/31/317d772bbb2815bd89d0e94893d9356e.rsc.sse" }}
+,{ "pid":12345, "tid":4, "ts":1788800259161099, "dur":137, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1b/1be86a8ef5a90d5f30b1f5b9774236b2.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1788800259161416, "dur":300, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1788800259161811, "dur":105, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/f6/f65880f635336b14b27e29962e6c7a92.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1788800259161934, "dur":175, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/de/decfd93e72c9d95d83f9c77cb9ce9ec2.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1788800259162161, "dur":131, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/be/be2974b912ebe00f21f8484e70e06c65.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1788800259162304, "dur":190, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b4/b4087ead743fae47653f5842a077c83a.iws.sse" }}
+,{ "pid":12345, "tid":4, "ts":1788800259162503, "dur":86, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a4/a428e9206c972a735c5a23692ee0f0f1.vis" }}
+,{ "pid":12345, "tid":4, "ts":1788800259162610, "dur":74, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/9d/9d219d872b609b0a11f27daad342c074.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1788800259162693, "dur":123, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/94/948b96008bf24e49fd7e0127c6203359.caw" }}
+,{ "pid":12345, "tid":4, "ts":1788800259162846, "dur":129, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/81/81f9a497b2c31b12267fc808a4a01c42.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1788800259163056, "dur":281, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/56/56646697b322acab95c70aafdc64d756.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1788800259163349, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/3b/3bddfcfa9cdcac023b4a3ce10725fb51.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1788800259163418, "dur":106, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/32/32f237568eb2595ed18a91c2eabd1f33.rgb" }}
+,{ "pid":12345, "tid":4, "ts":1788800259163699, "dur":136, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/13/132e5d6ddbba0d6845fb9fba576a38c2.ecm" }}
+,{ "pid":12345, "tid":4, "ts":1788800259163836, "dur":80, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1788800259096426, "dur":44445, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1788800259140877, "dur":294, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1788800259141172, "dur":422, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1788800259141595, "dur":458, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1788800259142053, "dur":631, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1788800259142684, "dur":14649, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1788800259157544, "dur":479, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1788800259157544, "dur":480, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":5, "ts":1788800259158054, "dur":155, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1788800259158228, "dur":180, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ff/ff06f044a9c51064a6e63ee63253dc7d.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1788800259158558, "dur":291, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/d8/d88ea3ed5ea772c96d85a281ff496ce5.caw" }}
+,{ "pid":12345, "tid":5, "ts":1788800259158921, "dur":573, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/b8/b8ba034e995c416a8b77b76fd4fa357d.vis" }}
+,{ "pid":12345, "tid":5, "ts":1788800259159586, "dur":162, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/90/90a727cb59deea53a33a5335b85db6aa.iws.sse" }}
+,{ "pid":12345, "tid":5, "ts":1788800259159770, "dur":127, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1788800259159984, "dur":154, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/73/73aa82d97a3425692607f82d483532e8.caw" }}
+,{ "pid":12345, "tid":5, "ts":1788800259160158, "dur":229, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/63/63d305ff6a9e54be3784967f3f5a9be6.rgb" }}
+,{ "pid":12345, "tid":5, "ts":1788800259160650, "dur":54, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/41/412b5a44d5a1e6d130931971ae2a6a15.ecm" }}
+,{ "pid":12345, "tid":5, "ts":1788800259160742, "dur":157, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/38/38ee5eaa00ddaf67a48126d07ef9bb80.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1788800259160967, "dur":208, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/23/231b212b7c4e10eea6cb41ed977e3f3b.vis" }}
+,{ "pid":12345, "tid":5, "ts":1788800259161226, "dur":59, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/15/15d03fe2c57f3e087f4ef8b2c044aa50.caw" }}
+,{ "pid":12345, "tid":5, "ts":1788800259161417, "dur":323, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1788800259161841, "dur":166, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ed/edfdf3412d4b3563d1442400eda0b03d.iws.sse" }}
+,{ "pid":12345, "tid":5, "ts":1788800259162061, "dur":149, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/cd/cde227f4dcf3460a2e79b83efbf6a070.caw" }}
+,{ "pid":12345, "tid":5, "ts":1788800259162266, "dur":85, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b8/b84de6ebc319994c460800ba777705c2.caw" }}
+,{ "pid":12345, "tid":5, "ts":1788800259162377, "dur":224, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/af/af3e7bae38b6b7312ebe37e851e95cda.caw" }}
+,{ "pid":12345, "tid":5, "ts":1788800259162622, "dur":158, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/99/99f365d0fc16d3e01e3a26dd8d87113d.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1788800259162862, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/78/78fd75c34b9726e75e0cac4017907807.vis" }}
+,{ "pid":12345, "tid":5, "ts":1788800259162979, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/63/63d305ff6a9e54be3784967f3f5a9be6.iws.sse" }}
+,{ "pid":12345, "tid":5, "ts":1788800259163047, "dur":105, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/56/56646697b322acab95c70aafdc64d756.vis" }}
+,{ "pid":12345, "tid":5, "ts":1788800259163182, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/47/476621c82a3e7015d863121a4f66f0f0.vis" }}
+,{ "pid":12345, "tid":5, "ts":1788800259163257, "dur":93, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/45/455301250dc1dd28760651725ee52642.caw" }}
+,{ "pid":12345, "tid":5, "ts":1788800259163385, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/38/38ee5eaa00ddaf67a48126d07ef9bb80.vis" }}
+,{ "pid":12345, "tid":5, "ts":1788800259163594, "dur":98, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/1b/1be86a8ef5a90d5f30b1f5b9774236b2.rsc.sse" }}
+,{ "pid":12345, "tid":5, "ts":1788800259163819, "dur":70, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259096453, "dur":44433, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259140898, "dur":311, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259141210, "dur":303, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259141514, "dur":213, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259141728, "dur":387, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259142116, "dur":207, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259142324, "dur":175, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259142499, "dur":181, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259142680, "dur":14603, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259157393, "dur":77, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1788800259157498, "dur":104, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1788800259158038, "dur":59, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/level2.resS" }}
+,{ "pid":12345, "tid":6, "ts":1788800259158114, "dur":143, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ff/ff149493013f828351a8f69059cb2a7a.vis" }}
+,{ "pid":12345, "tid":6, "ts":1788800259158327, "dur":542, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/f6/f65880f635336b14b27e29962e6c7a92.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1788800259158924, "dur":504, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/b8/b8ba034e995c416a8b77b76fd4fa357d.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1788800259159467, "dur":81, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/99/99f365d0fc16d3e01e3a26dd8d87113d.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1788800259159660, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/89/89ca242d31b5de213f9ea6638f02899e.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1788800259159769, "dur":102, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1788800259159983, "dur":149, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/73/73aa82d97a3425692607f82d483532e8.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1788800259160246, "dur":118, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/5c/5cf09c763dc2ecc6ad71787b1b3e058e.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1788800259160390, "dur":209, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/52/52afdb43c6a53f1af4f8b92f9e8d261e.vis" }}
+,{ "pid":12345, "tid":6, "ts":1788800259160612, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/45/455301250dc1dd28760651725ee52642.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1788800259160711, "dur":141, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/3b/3bddfcfa9cdcac023b4a3ce10725fb51.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1788800259160862, "dur":164, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/2d/2d4d8a11593b8524194b6e2743e4af9c.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1788800259161104, "dur":279, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1b/1be86a8ef5a90d5f30b1f5b9774236b2.caw" }}
+,{ "pid":12345, "tid":6, "ts":1788800259161402, "dur":101, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/03/03df7c668754c34690013d714f0beac5.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1788800259161503, "dur":237, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff149493013f828351a8f69059cb2a7a.caw" }}
+,{ "pid":12345, "tid":6, "ts":1788800259161753, "dur":548, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff149493013f828351a8f69059cb2a7a.caw" }}
+,{ "pid":12345, "tid":6, "ts":1788800259162372, "dur":65, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/af/af3e7bae38b6b7312ebe37e851e95cda.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1788800259162494, "dur":83, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a5/a50489e5c81e3e96c34dde0445497e84.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1788800259162663, "dur":124, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/98/98fbc065c8bdf0460515d3f7b579149e.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1788800259162817, "dur":54, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/82/82e6bc7c13aecd1e02f096c83bf0818c.vis" }}
+,{ "pid":12345, "tid":6, "ts":1788800259162888, "dur":72, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/77/770dd283b6d42c7301cd5d7668e4c354.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1788800259162971, "dur":55, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/69/6906f0ae530d2bb5b66f0a2b3288d3fa.ecm" }}
+,{ "pid":12345, "tid":6, "ts":1788800259163036, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/56/567c2eb22035c33a305f017727f65d63.rsc.sse" }}
+,{ "pid":12345, "tid":6, "ts":1788800259163611, "dur":74, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/1a/1a8104bf58b8e000c839c39b6ac000ae.rgb" }}
+,{ "pid":12345, "tid":6, "ts":1788800259163833, "dur":91, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1788800259096489, "dur":44421, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1788800259140917, "dur":609, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1788800259141526, "dur":190, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1788800259141716, "dur":397, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1788800259142114, "dur":503, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1788800259142618, "dur":174, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1788800259142792, "dur":14354, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1788800259157279, "dur":79, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1788800259157387, "dur":299, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":7, "ts":1788800259157898, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1788800259158053, "dur":146, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/level1" }}
+,{ "pid":12345, "tid":7, "ts":1788800259158259, "dur":61, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/f9/f99d6cd32cb80b9925a4dfbf5a4ec14f.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1788800259158343, "dur":367, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/f2/f27cc7ee86ae326aa8a4ae6b033cb0b4.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1788800259158742, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c5/c55d1d1b792fd608d2d4414727de9737.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1788800259158855, "dur":499, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/be/be2974b912ebe00f21f8484e70e06c65.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1788800259159540, "dur":133, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/94/949dd0c2dbd1bdb3bace46910e4bf3c7.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1788800259159685, "dur":102, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/86/866b122276866449b90a0306b76dc448.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1788800259159787, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/81/81f9a497b2c31b12267fc808a4a01c42.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1788800259159999, "dur":228, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/81/81f9a497b2c31b12267fc808a4a01c42.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1788800259160266, "dur":111, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/57/57b1ef2e5e9ac2a44d8497564681da40.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1788800259160495, "dur":151, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/48/48c5c64facbaff7e37f010c6f892f566.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1788800259160792, "dur":172, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/31/317d772bbb2815bd89d0e94893d9356e.vis" }}
+,{ "pid":12345, "tid":7, "ts":1788800259161040, "dur":144, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1e/1e1e5faec0e50bbbed22658d335fefa2.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1788800259161335, "dur":123, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/0d/0da5532d05b5dbb9b141b17503bac061.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1788800259161459, "dur":274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/01/01a209490a37a538a890cd7c3ca676c7.caw" }}
+,{ "pid":12345, "tid":7, "ts":1788800259161793, "dur":55, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/f9/f9554b175c64d510bc859cb6644c1e6e.rgb" }}
+,{ "pid":12345, "tid":7, "ts":1788800259161856, "dur":68, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/e9/e98774ac1009b826a4bcda1c04d866f3.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1788800259161939, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/dc/dc3266a482912d8429f4e91ed75e87bf.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1788800259162033, "dur":87, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d0/d074215ca1d9b2b924660a6393f21c28.caw" }}
+,{ "pid":12345, "tid":7, "ts":1788800259162249, "dur":197, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b8/b8ba034e995c416a8b77b76fd4fa357d.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1788800259162513, "dur":103, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a4/a428e9206c972a735c5a23692ee0f0f1.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1788800259162949, "dur":174, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/6e/6e5390e0f53e6765220a894e70b8e23b.rsc.sse" }}
+,{ "pid":12345, "tid":7, "ts":1788800259163190, "dur":173, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/48/48c5c64facbaff7e37f010c6f892f566.iws.sse" }}
+,{ "pid":12345, "tid":7, "ts":1788800259163448, "dur":109, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/31/317d772bbb2815bd89d0e94893d9356e.ecm" }}
+,{ "pid":12345, "tid":7, "ts":1788800259163813, "dur":77, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1788800259096512, "dur":44410, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1788800259140932, "dur":805, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1788800259141738, "dur":368, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1788800259142107, "dur":202, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1788800259142309, "dur":507, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1788800259142816, "dur":14204, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1788800259157055, "dur":66, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\2022.3.62f3c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1788800259157028, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1788800259157411, "dur":128, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1788800259157541, "dur":475, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":8, "ts":1788800259157540, "dur":477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":8, "ts":1788800259158122, "dur":197, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ff/ff149493013f828351a8f69059cb2a7a.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1788800259158346, "dur":108, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/f2/f27cc7ee86ae326aa8a4ae6b033cb0b4.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1788800259158496, "dur":144, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/de/decfd93e72c9d95d83f9c77cb9ce9ec2.caw" }}
+,{ "pid":12345, "tid":8, "ts":1788800259158782, "dur":110, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c2/c258a7cee900517f95e69201fd1937f1.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1788800259158918, "dur":115, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ba/bab18e7473b077f726cb06d859bc90a0.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1788800259159230, "dur":94, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a5/a54cd06188629cc36bcc54b4ce7b7369.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1788800259159359, "dur":177, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a2/a2ea997ed12a5c05e26d871c80f8e651.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1788800259159591, "dur":219, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/90/90a727cb59deea53a33a5335b85db6aa.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1788800259159811, "dur":171, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/78/78fd75c34b9726e75e0cac4017907807.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1788800259159990, "dur":324, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/78/78fd75c34b9726e75e0cac4017907807.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1788800259160327, "dur":258, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/52/52c95079d4d5515a938f7d0bd44143b8.vis" }}
+,{ "pid":12345, "tid":8, "ts":1788800259160700, "dur":54, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/3c/3c7d519542f352297e6781b28afed78a.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1788800259160785, "dur":121, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/32/32f237568eb2595ed18a91c2eabd1f33.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1788800259160943, "dur":87, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/27/27666504c4ef89da8f93019a29e644fc.caw" }}
+,{ "pid":12345, "tid":8, "ts":1788800259161084, "dur":413, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1c/1c8a3f65294c55e0d60eed0a91df7614.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1788800259161498, "dur":242, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff149493013f828351a8f69059cb2a7a.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1788800259161833, "dur":79, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ed/edfdf3412d4b3563d1442400eda0b03d.vis" }}
+,{ "pid":12345, "tid":8, "ts":1788800259161973, "dur":106, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d7/d7c6ffdf14f039729df6bcacfaf29cb8.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1788800259162114, "dur":120, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/c1/c1bc5e0260b3ab282292840487191a9a.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1788800259162522, "dur":180, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a3/a3a9ccd9dcd55bf910bba19ab5e65901.rgb" }}
+,{ "pid":12345, "tid":8, "ts":1788800259162774, "dur":59, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/86/866b122276866449b90a0306b76dc448.vis" }}
+,{ "pid":12345, "tid":8, "ts":1788800259162929, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/73/73e90d41b4c5fe214f2a0d51be428489.ecm" }}
+,{ "pid":12345, "tid":8, "ts":1788800259163214, "dur":160, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/45/4583f7d33d4518abeaeca180bfebd520.rsc.sse" }}
+,{ "pid":12345, "tid":8, "ts":1788800259163414, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/35/35c9665726b543797b738a54e53f505c.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1788800259163542, "dur":196, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/20/205bec9f957eea161572ee59fa53539f.vis" }}
+,{ "pid":12345, "tid":8, "ts":1788800259163778, "dur":50, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/03/03df7c668754c34690013d714f0beac5.iws.sse" }}
+,{ "pid":12345, "tid":8, "ts":1788800259163829, "dur":101, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259096532, "dur":44407, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259140949, "dur":560, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259141510, "dur":452, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259141963, "dur":298, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259142262, "dur":206, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259142469, "dur":172, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259142641, "dur":168, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259142809, "dur":14243, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259157249, "dur":392, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":9, "ts":1788800259158058, "dur":166, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":9, "ts":1788800259158278, "dur":214, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/f9/f9554b175c64d510bc859cb6644c1e6e.iws.sse" }}
+,{ "pid":12345, "tid":9, "ts":1788800259158548, "dur":68, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/d8/d88ea3ed5ea772c96d85a281ff496ce5.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1788800259158853, "dur":135, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c0/c0ad3378af846db811c33fcec5dcb3e0.caw" }}
+,{ "pid":12345, "tid":9, "ts":1788800259159187, "dur":56, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a7/a7182272c0a8089a9862531ee3a1bc7a.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1788800259159262, "dur":76, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a5/a50489e5c81e3e96c34dde0445497e84.iws.sse" }}
+,{ "pid":12345, "tid":9, "ts":1788800259159350, "dur":150, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a2/a2ea997ed12a5c05e26d871c80f8e651.vis" }}
+,{ "pid":12345, "tid":9, "ts":1788800259159533, "dur":158, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/94/949dd0c2dbd1bdb3bace46910e4bf3c7.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1788800259159740, "dur":63, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/84/8422c2d659b2919f7c9308363c26514d.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1788800259159803, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/78/78fd75c34b9726e75e0cac4017907807.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1788800259159919, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1788800259159986, "dur":275, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/76/769dcd80240d6dcc2c39a8e8dafb76b3.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1788800259160289, "dur":333, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/56/56646697b322acab95c70aafdc64d756.vis" }}
+,{ "pid":12345, "tid":9, "ts":1788800259160631, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/41/4154dc28970646aa43afa10a8143f48f.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1788800259160788, "dur":142, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/32/32f237568eb2595ed18a91c2eabd1f33.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1788800259160943, "dur":92, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/27/27666504c4ef89da8f93019a29e644fc.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1788800259161048, "dur":401, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1e/1e1e5faec0e50bbbed22658d335fefa2.caw" }}
+,{ "pid":12345, "tid":9, "ts":1788800259161449, "dur":287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/01/01a209490a37a538a890cd7c3ca676c7.ecm" }}
+,{ "pid":12345, "tid":9, "ts":1788800259161821, "dur":57, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/f2/f27cc7ee86ae326aa8a4ae6b033cb0b4.rsc.sse" }}
+,{ "pid":12345, "tid":9, "ts":1788800259161947, "dur":294, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d8/d88ea3ed5ea772c96d85a281ff496ce5.vis" }}
+,{ "pid":12345, "tid":9, "ts":1788800259162329, "dur":255, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b2/b2d75edeef556889e0d495367b778bce.caw" }}
+,{ "pid":12345, "tid":9, "ts":1788800259162867, "dur":120, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/78/78fd75c34b9726e75e0cac4017907807.caw" }}
+,{ "pid":12345, "tid":9, "ts":1788800259163073, "dur":100, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/52/52c95079d4d5515a938f7d0bd44143b8.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1788800259163355, "dur":273, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/3b/3b755db69ab2464f48a76f8241feb9ed.vis" }}
+,{ "pid":12345, "tid":9, "ts":1788800259163677, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/14/141ccd41eef9eb0265fe3045785857f1.rgb" }}
+,{ "pid":12345, "tid":9, "ts":1788800259163778, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/0b/0b4be870e0b8ebc00de4bb733a02f297.vis" }}
+,{ "pid":12345, "tid":9, "ts":1788800259163840, "dur":66, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1788800259096566, "dur":44408, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1788800259140979, "dur":505, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1788800259141484, "dur":204, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1788800259141688, "dur":799, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1788800259142488, "dur":175, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1788800259142663, "dur":144, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1788800259142807, "dur":14252, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1788800259157215, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1788800259157300, "dur":77, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Web.dll" }}
+,{ "pid":12345, "tid":10, "ts":1788800259157402, "dur":119, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.DirectoryServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1788800259157540, "dur":115, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":10, "ts":1788800259158008, "dur":166, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1788800259158229, "dur":98, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ff/ff06f044a9c51064a6e63ee63253dc7d.caw" }}
+,{ "pid":12345, "tid":10, "ts":1788800259158389, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/e9/e98774ac1009b826a4bcda1c04d866f3.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1788800259158559, "dur":203, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/d7/d7c6ffdf14f039729df6bcacfaf29cb8.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1788800259158786, "dur":158, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c1/c1bc5e0260b3ab282292840487191a9a.vis" }}
+,{ "pid":12345, "tid":10, "ts":1788800259158980, "dur":92, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/b8/b84de6ebc319994c460800ba777705c2.vis" }}
+,{ "pid":12345, "tid":10, "ts":1788800259159288, "dur":188, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a4/a428e9206c972a735c5a23692ee0f0f1.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1788800259159536, "dur":289, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/94/949dd0c2dbd1bdb3bace46910e4bf3c7.caw" }}
+,{ "pid":12345, "tid":10, "ts":1788800259159826, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/77/770dd283b6d42c7301cd5d7668e4c354.vis" }}
+,{ "pid":12345, "tid":10, "ts":1788800259159984, "dur":164, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/73/73aa82d97a3425692607f82d483532e8.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1788800259160164, "dur":241, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/63/63d305ff6a9e54be3784967f3f5a9be6.caw" }}
+,{ "pid":12345, "tid":10, "ts":1788800259160510, "dur":320, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/47/476621c82a3e7015d863121a4f66f0f0.caw" }}
+,{ "pid":12345, "tid":10, "ts":1788800259160863, "dur":306, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/2d/2d4d8a11593b8524194b6e2743e4af9c.caw" }}
+,{ "pid":12345, "tid":10, "ts":1788800259161183, "dur":90, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/18/18948be38e16928969a939d50f285dcf.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1788800259161400, "dur":90, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/03/0310ea92fc40ae62ae392093f76c0e8b.vis" }}
+,{ "pid":12345, "tid":10, "ts":1788800259161491, "dur":247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff149493013f828351a8f69059cb2a7a.iws.sse" }}
+,{ "pid":12345, "tid":10, "ts":1788800259161850, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/e9/e98774ac1009b826a4bcda1c04d866f3.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1788800259162101, "dur":50, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/c2/c258a7cee900517f95e69201fd1937f1.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1788800259162162, "dur":124, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/be/be2974b912ebe00f21f8484e70e06c65.rsc.sse" }}
+,{ "pid":12345, "tid":10, "ts":1788800259162295, "dur":65, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b4/b4087ead743fae47653f5842a077c83a.vis" }}
+,{ "pid":12345, "tid":10, "ts":1788800259162430, "dur":89, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a7/a7f7f812c531f63955812fe7a0f0483c.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1788800259162555, "dur":157, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a2/a2ea997ed12a5c05e26d871c80f8e651.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1788800259162736, "dur":69, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/8c/8c1469cf56d25c580803bfa05b74558b.caw" }}
+,{ "pid":12345, "tid":10, "ts":1788800259163118, "dur":85, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/4e/4e9313029dba5026f357faa63f74c7e1.rgb" }}
+,{ "pid":12345, "tid":10, "ts":1788800259163215, "dur":186, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/45/4583f7d33d4518abeaeca180bfebd520.vis" }}
+,{ "pid":12345, "tid":10, "ts":1788800259163457, "dur":219, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/2d/2d4d8a11593b8524194b6e2743e4af9c.ecm" }}
+,{ "pid":12345, "tid":10, "ts":1788800259163688, "dur":67, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/14/141ccd41eef9eb0265fe3045785857f1.caw" }}
+,{ "pid":12345, "tid":10, "ts":1788800259163826, "dur":107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1788800259096597, "dur":44385, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1788800259140987, "dur":538, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1788800259141525, "dur":192, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1788800259141717, "dur":468, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1788800259142186, "dur":205, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1788800259142392, "dur":187, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1788800259142580, "dur":186, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1788800259142766, "dur":14389, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1788800259157323, "dur":208, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Web.ApplicationServices.dll" }}
+,{ "pid":12345, "tid":11, "ts":1788800259157558, "dur":147, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/Protocol.dll" }}
+,{ "pid":12345, "tid":11, "ts":1788800259157919, "dur":103, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1788800259158049, "dur":135, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/level0.resS" }}
+,{ "pid":12345, "tid":11, "ts":1788800259158237, "dur":65, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/f9/f99d6cd32cb80b9925a4dfbf5a4ec14f.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259158348, "dur":53, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ed/edfdf3412d4b3563d1442400eda0b03d.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259158419, "dur":231, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/e7/e79a52b7f85d452efe31e7baa2e50af0.vis" }}
+,{ "pid":12345, "tid":11, "ts":1788800259158675, "dur":153, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/d1/d140e068992a29099ff7221d614877b8.caw" }}
+,{ "pid":12345, "tid":11, "ts":1788800259158872, "dur":243, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/be/be2974b912ebe00f21f8484e70e06c65.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259159276, "dur":70, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a4/a428e9206c972a735c5a23692ee0f0f1.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259159360, "dur":259, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a2/a2ea997ed12a5c05e26d871c80f8e651.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259159653, "dur":165, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/8a/8a3962acb2aa41fe491d65f3b603b467.caw" }}
+,{ "pid":12345, "tid":11, "ts":1788800259159819, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/78/78fd75c34b9726e75e0cac4017907807.caw" }}
+,{ "pid":12345, "tid":11, "ts":1788800259159977, "dur":140, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/73/73aa82d97a3425692607f82d483532e8.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259160152, "dur":127, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/63/63d305ff6a9e54be3784967f3f5a9be6.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259160291, "dur":128, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/56/567c2eb22035c33a305f017727f65d63.caw" }}
+,{ "pid":12345, "tid":11, "ts":1788800259160504, "dur":148, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/47/476621c82a3e7015d863121a4f66f0f0.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1788800259160661, "dur":128, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/40/402fe6f39702c996d2ea4b98239ae66c.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1788800259160807, "dur":162, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/31/317d772bbb2815bd89d0e94893d9356e.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1788800259161048, "dur":295, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1c/1c8a3f65294c55e0d60eed0a91df7614.vis" }}
+,{ "pid":12345, "tid":11, "ts":1788800259161389, "dur":75, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/03/03df7c668754c34690013d714f0beac5.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259161465, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff149493013f828351a8f69059cb2a7a.vis" }}
+,{ "pid":12345, "tid":11, "ts":1788800259161818, "dur":141, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/f6/f65880f635336b14b27e29962e6c7a92.caw" }}
+,{ "pid":12345, "tid":11, "ts":1788800259161973, "dur":113, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d7/d7c6ffdf14f039729df6bcacfaf29cb8.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1788800259162126, "dur":124, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/c0/c0ad3378af846db811c33fcec5dcb3e0.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259162261, "dur":84, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b8/b84de6ebc319994c460800ba777705c2.iws.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259162441, "dur":111, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a7/a7182272c0a8089a9862531ee3a1bc7a.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259162562, "dur":116, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a0/a00d94fde246f41a5ef5fbcb6b2df661.vis" }}
+,{ "pid":12345, "tid":11, "ts":1788800259162800, "dur":271, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/83/83220c846e816bc6e832c5da8194dcde.vis" }}
+,{ "pid":12345, "tid":11, "ts":1788800259163105, "dur":68, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/51/5157a90127391214a45ee3010666f7aa.rsc.sse" }}
+,{ "pid":12345, "tid":11, "ts":1788800259163333, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/3c/3c7d519542f352297e6781b28afed78a.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1788800259163516, "dur":205, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/23/231b212b7c4e10eea6cb41ed977e3f3b.rgb" }}
+,{ "pid":12345, "tid":11, "ts":1788800259163757, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/0d/0da5532d05b5dbb9b141b17503bac061.ecm" }}
+,{ "pid":12345, "tid":11, "ts":1788800259163810, "dur":81, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1788800259096663, "dur":44358, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1788800259141026, "dur":465, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1788800259141492, "dur":189, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1788800259141682, "dur":570, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1788800259142252, "dur":208, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1788800259142461, "dur":193, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1788800259142654, "dur":161, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1788800259142815, "dur":14227, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1788800259157117, "dur":136, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\2022.3.62f3c1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1788800259157051, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":12, "ts":1788800259157323, "dur":58, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\unity\\2022.3.62f3c1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1788800259157322, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1788800259157424, "dur":128, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.ComponentModel.DataAnnotations.dll" }}
+,{ "pid":12345, "tid":12, "ts":1788800259157555, "dur":638, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1788800259157553, "dur":640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1788800259158205, "dur":59, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":12, "ts":1788800259158274, "dur":101, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/f9/f9554b175c64d510bc859cb6644c1e6e.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1788800259158395, "dur":297, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/e9/e98774ac1009b826a4bcda1c04d866f3.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1788800259158783, "dur":272, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c2/c258a7cee900517f95e69201fd1937f1.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1788800259159141, "dur":60, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ae/aee6e4f6b81a6062d72687caae142a29.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1788800259159285, "dur":187, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a4/a428e9206c972a735c5a23692ee0f0f1.caw" }}
+,{ "pid":12345, "tid":12, "ts":1788800259159489, "dur":81, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/99/997be6145129471f53df6d6b873547ef.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1788800259159594, "dur":135, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/90/90a727cb59deea53a33a5335b85db6aa.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1788800259159768, "dur":69, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/82/82e6bc7c13aecd1e02f096c83bf0818c.vis" }}
+,{ "pid":12345, "tid":12, "ts":1788800259159839, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/77/770dd283b6d42c7301cd5d7668e4c354.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1788800259159997, "dur":222, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/77/770dd283b6d42c7301cd5d7668e4c354.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1788800259160290, "dur":243, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/56/567c2eb22035c33a305f017727f65d63.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1788800259160590, "dur":129, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/45/455cdcd23b501e650a090a8a0373f30e.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1788800259160745, "dur":94, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/38/38ee5eaa00ddaf67a48126d07ef9bb80.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1788800259160860, "dur":145, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/2d/2d4d8a11593b8524194b6e2743e4af9c.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1788800259161044, "dur":107, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1e/1e1e5faec0e50bbbed22658d335fefa2.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1788800259161219, "dur":93, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/15/15d03fe2c57f3e087f4ef8b2c044aa50.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1788800259161336, "dur":91, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/0d/0da5532d05b5dbb9b141b17503bac061.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1788800259161427, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/01/01a209490a37a538a890cd7c3ca676c7.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1788800259161785, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/f9/f99d6cd32cb80b9925a4dfbf5a4ec14f.ecm" }}
+,{ "pid":12345, "tid":12, "ts":1788800259161906, "dur":107, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/df/dfb92e05b7cf66faacf99c28403b7537.rgb" }}
+,{ "pid":12345, "tid":12, "ts":1788800259162021, "dur":78, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d1/d140e068992a29099ff7221d614877b8.caw" }}
+,{ "pid":12345, "tid":12, "ts":1788800259162123, "dur":80, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/c0/c0ad3378af846db811c33fcec5dcb3e0.vis" }}
+,{ "pid":12345, "tid":12, "ts":1788800259162214, "dur":95, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ba/bab18e7473b077f726cb06d859bc90a0.vis" }}
+,{ "pid":12345, "tid":12, "ts":1788800259162318, "dur":223, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b2/b2d75edeef556889e0d495367b778bce.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1788800259162563, "dur":211, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a0/a00d94fde246f41a5ef5fbcb6b2df661.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1788800259162786, "dur":224, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/84/8422c2d659b2919f7c9308363c26514d.vis" }}
+,{ "pid":12345, "tid":12, "ts":1788800259163160, "dur":163, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/4d/4d9a4f947d924db13a2bbd5e90a83f85.caw" }}
+,{ "pid":12345, "tid":12, "ts":1788800259163397, "dur":156, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/35/35c9665726b543797b738a54e53f505c.rsc.sse" }}
+,{ "pid":12345, "tid":12, "ts":1788800259163677, "dur":113, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/14/141ccd41eef9eb0265fe3045785857f1.iws.sse" }}
+,{ "pid":12345, "tid":12, "ts":1788800259163798, "dur":50, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/03/0310ea92fc40ae62ae392093f76c0e8b.ecm" }}
+,{ "pid":12345, "tid":13, "ts":1788800259096696, "dur":44332, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1788800259141032, "dur":486, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1788800259141519, "dur":198, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1788800259141718, "dur":432, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1788800259142151, "dur":272, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1788800259142423, "dur":237, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1788800259142660, "dur":165, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1788800259142825, "dur":14205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1788800259157039, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":13, "ts":1788800259157248, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":13, "ts":1788800259157367, "dur":115, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.ServiceModel.Activation.dll" }}
+,{ "pid":12345, "tid":13, "ts":1788800259157577, "dur":723, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1788800259157576, "dur":725, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":13, "ts":1788800259158379, "dur":53, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/e9/e98774ac1009b826a4bcda1c04d866f3.vis" }}
+,{ "pid":12345, "tid":13, "ts":1788800259158459, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/e5/e5d89fd1af3ab5ea498aac649a01d60a.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1788800259158555, "dur":165, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/d7/d7c6ffdf14f039729df6bcacfaf29cb8.vis" }}
+,{ "pid":12345, "tid":13, "ts":1788800259158781, "dur":100, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c2/c258a7cee900517f95e69201fd1937f1.caw" }}
+,{ "pid":12345, "tid":13, "ts":1788800259159047, "dur":692, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/b2/b2d75edeef556889e0d495367b778bce.vis" }}
+,{ "pid":12345, "tid":13, "ts":1788800259159779, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/81/81f9a497b2c31b12267fc808a4a01c42.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1788800259159923, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/76/769dcd80240d6dcc2c39a8e8dafb76b3.caw" }}
+,{ "pid":12345, "tid":13, "ts":1788800259160007, "dur":227, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/76/769dcd80240d6dcc2c39a8e8dafb76b3.caw" }}
+,{ "pid":12345, "tid":13, "ts":1788800259160264, "dur":107, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/57/57b1ef2e5e9ac2a44d8497564681da40.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1788800259160410, "dur":131, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/51/5157a90127391214a45ee3010666f7aa.rsc.sse" }}
+,{ "pid":12345, "tid":13, "ts":1788800259160662, "dur":253, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/40/402fe6f39702c996d2ea4b98239ae66c.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1788800259160928, "dur":274, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/2a/2a14a4bd0911d829ebe9abb842f1adde.caw" }}
+,{ "pid":12345, "tid":13, "ts":1788800259161248, "dur":235, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/14/141ccd41eef9eb0265fe3045785857f1.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1788800259161484, "dur":252, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff149493013f828351a8f69059cb2a7a.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1788800259161852, "dur":78, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/e9/e98774ac1009b826a4bcda1c04d866f3.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1788800259161976, "dur":655, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d7/d7c6ffdf14f039729df6bcacfaf29cb8.iws.sse" }}
+,{ "pid":12345, "tid":13, "ts":1788800259162642, "dur":140, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/99/997be6145129471f53df6d6b873547ef.vis" }}
+,{ "pid":12345, "tid":13, "ts":1788800259162793, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/84/8422c2d659b2919f7c9308363c26514d.rgb" }}
+,{ "pid":12345, "tid":13, "ts":1788800259162910, "dur":382, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/74/74310939413b21a75701d1e032c8e3d7.caw" }}
+,{ "pid":12345, "tid":13, "ts":1788800259163305, "dur":148, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/40/402fe6f39702c996d2ea4b98239ae66c.caw" }}
+,{ "pid":12345, "tid":13, "ts":1788800259163473, "dur":99, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/2a/2a14a4bd0911d829ebe9abb842f1adde.vis" }}
+,{ "pid":12345, "tid":13, "ts":1788800259163624, "dur":83, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/1a/1a8104bf58b8e000c839c39b6ac000ae.ecm" }}
+,{ "pid":12345, "tid":13, "ts":1788800259163722, "dur":123, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/11/1196e3dc5d263dac268309d772a539e4.ecm" }}
+,{ "pid":12345, "tid":14, "ts":1788800259096717, "dur":44318, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259141039, "dur":393, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259141432, "dur":190, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259141622, "dur":439, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259142061, "dur":216, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259142277, "dur":233, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259142510, "dur":184, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259142694, "dur":14503, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259157274, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":14, "ts":1788800259157402, "dur":333, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":14, "ts":1788800259157809, "dur":257, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259158067, "dur":186, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1788800259158340, "dur":80, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/f2/f27cc7ee86ae326aa8a4ae6b033cb0b4.caw" }}
+,{ "pid":12345, "tid":14, "ts":1788800259158559, "dur":185, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/d7/d7c6ffdf14f039729df6bcacfaf29cb8.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1788800259158766, "dur":299, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c2/c258a7cee900517f95e69201fd1937f1.vis" }}
+,{ "pid":12345, "tid":14, "ts":1788800259159134, "dur":121, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ae/aee6e4f6b81a6062d72687caae142a29.iws.sse" }}
+,{ "pid":12345, "tid":14, "ts":1788800259159514, "dur":69, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/98/98fbc065c8bdf0460515d3f7b579149e.caw" }}
+,{ "pid":12345, "tid":14, "ts":1788800259159772, "dur":115, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1788800259159979, "dur":147, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/73/73aa82d97a3425692607f82d483532e8.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1788800259160159, "dur":128, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/63/63d305ff6a9e54be3784967f3f5a9be6.ecm" }}
+,{ "pid":12345, "tid":14, "ts":1788800259160299, "dur":249, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/56/56646697b322acab95c70aafdc64d756.rsc.sse" }}
+,{ "pid":12345, "tid":14, "ts":1788800259160601, "dur":62, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/45/455cdcd23b501e650a090a8a0373f30e.ecm" }}
+,{ "pid":12345, "tid":14, "ts":1788800259160770, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/35/35c9665726b543797b738a54e53f505c.ecm" }}
+,{ "pid":12345, "tid":14, "ts":1788800259160858, "dur":122, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/2d/2d4d8a11593b8524194b6e2743e4af9c.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1788800259161023, "dur":122, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/20/205bec9f957eea161572ee59fa53539f.vis" }}
+,{ "pid":12345, "tid":14, "ts":1788800259161268, "dur":166, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/13/132e5d6ddbba0d6845fb9fba576a38c2.rsc.sse" }}
+,{ "pid":12345, "tid":14, "ts":1788800259161435, "dur":292, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/01/01a209490a37a538a890cd7c3ca676c7.rgb" }}
+,{ "pid":12345, "tid":14, "ts":1788800259161761, "dur":61, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff06f044a9c51064a6e63ee63253dc7d.ecm" }}
+,{ "pid":12345, "tid":14, "ts":1788800259161851, "dur":85, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/e9/e98774ac1009b826a4bcda1c04d866f3.rsc.sse" }}
+,{ "pid":12345, "tid":14, "ts":1788800259162082, "dur":109, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/c5/c55d1d1b792fd608d2d4414727de9737.vis" }}
+,{ "pid":12345, "tid":14, "ts":1788800259162333, "dur":125, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b2/b20c859b1c83bc9e9f4d5534cc903d26.rsc.sse" }}
+,{ "pid":12345, "tid":14, "ts":1788800259162560, "dur":111, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a2/a2ea997ed12a5c05e26d871c80f8e651.caw" }}
+,{ "pid":12345, "tid":14, "ts":1788800259162776, "dur":237, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/86/866b122276866449b90a0306b76dc448.rsc.sse" }}
+,{ "pid":12345, "tid":14, "ts":1788800259163068, "dur":73, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/52/52c95079d4d5515a938f7d0bd44143b8.vis" }}
+,{ "pid":12345, "tid":14, "ts":1788800259163649, "dur":80, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/17/174bf991f4f4bb8cc02a0a93b299fc2a.iws.sse" }}
+,{ "pid":12345, "tid":14, "ts":1788800259163753, "dur":92, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/0d/0da5532d05b5dbb9b141b17503bac061.rsc.sse" }}
+,{ "pid":12345, "tid":14, "ts":1788800259163845, "dur":51, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259096734, "dur":44306, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259141044, "dur":474, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259141519, "dur":194, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259141713, "dur":406, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259142120, "dur":200, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259142320, "dur":194, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259142514, "dur":180, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259142694, "dur":14532, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259157279, "dur":61, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1788800259157340, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld.exe" }}
+,{ "pid":12345, "tid":15, "ts":1788800259157421, "dur":113, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Configuration.Install.dll" }}
+,{ "pid":12345, "tid":15, "ts":1788800259157536, "dur":736, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1788800259157535, "dur":738, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":15, "ts":1788800259158319, "dur":84, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/f6/f65880f635336b14b27e29962e6c7a92.caw" }}
+,{ "pid":12345, "tid":15, "ts":1788800259158552, "dur":151, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/d7/d7c6ffdf14f039729df6bcacfaf29cb8.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259158791, "dur":172, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/c1/c1bc5e0260b3ab282292840487191a9a.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259159039, "dur":112, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/b2/b2d75edeef556889e0d495367b778bce.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259159284, "dur":166, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a4/a428e9206c972a735c5a23692ee0f0f1.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1788800259159462, "dur":78, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/99/99f365d0fc16d3e01e3a26dd8d87113d.iws.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259159552, "dur":240, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/94/948b96008bf24e49fd7e0127c6203359.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1788800259159793, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/81/81f9a497b2c31b12267fc808a4a01c42.caw" }}
+,{ "pid":12345, "tid":15, "ts":1788800259159969, "dur":109, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/73/73e90d41b4c5fe214f2a0d51be428489.iws.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259160162, "dur":145, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/5d/5d9fde11a9cc973bad0082f28fffcb99.vis" }}
+,{ "pid":12345, "tid":15, "ts":1788800259160316, "dur":155, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/56/56646697b322acab95c70aafdc64d756.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1788800259160506, "dur":108, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/47/476621c82a3e7015d863121a4f66f0f0.rgb" }}
+,{ "pid":12345, "tid":15, "ts":1788800259160629, "dur":60, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/41/4154dc28970646aa43afa10a8143f48f.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259160717, "dur":206, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/3b/3bddfcfa9cdcac023b4a3ce10725fb51.caw" }}
+,{ "pid":12345, "tid":15, "ts":1788800259160949, "dur":142, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/23/236dfb0de9dc20f579780c39178c5c9b.rgb" }}
+,{ "pid":12345, "tid":15, "ts":1788800259161102, "dur":164, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1b/1be86a8ef5a90d5f30b1f5b9774236b2.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1788800259161276, "dur":108, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/13/132e5d6ddbba0d6845fb9fba576a38c2.iws.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259161404, "dur":107, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/03/03df7c668754c34690013d714f0beac5.caw" }}
+,{ "pid":12345, "tid":15, "ts":1788800259161512, "dur":250, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff06f044a9c51064a6e63ee63253dc7d.vis" }}
+,{ "pid":12345, "tid":15, "ts":1788800259161786, "dur":86, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/f9/f9554b175c64d510bc859cb6644c1e6e.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259161967, "dur":94, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d7/d7c6ffdf14f039729df6bcacfaf29cb8.vis" }}
+,{ "pid":12345, "tid":15, "ts":1788800259162070, "dur":126, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/c9/c90ca19ecced75bb20faa8690b94aa78.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259162235, "dur":192, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b8/b8ba034e995c416a8b77b76fd4fa357d.rsc.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259162513, "dur":180, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a4/a428e9206c972a735c5a23692ee0f0f1.caw" }}
+,{ "pid":12345, "tid":15, "ts":1788800259163138, "dur":92, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/4e/4e4b823d7d0a9631fe4539993dd12faa.iws.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259163353, "dur":58, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/3b/3bddfcfa9cdcac023b4a3ce10725fb51.caw" }}
+,{ "pid":12345, "tid":15, "ts":1788800259163427, "dur":273, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/32/32f237568eb2595ed18a91c2eabd1f33.iws.sse" }}
+,{ "pid":12345, "tid":15, "ts":1788800259163729, "dur":71, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/0e/0e73fb608ffa50d672af369c71dc29c6.ecm" }}
+,{ "pid":12345, "tid":15, "ts":1788800259163814, "dur":74, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1788800259096761, "dur":44286, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1788800259141048, "dur":582, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1788800259141631, "dur":406, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1788800259142037, "dur":251, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1788800259142288, "dur":193, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1788800259142481, "dur":178, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1788800259142659, "dur":170, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1788800259142829, "dur":14184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1788800259157234, "dur":50, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1788800259157410, "dur":125, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":16, "ts":1788800259157537, "dur":506, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\AAA - game -project\\mmorpg\\Src\\Client\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":16, "ts":1788800259157536, "dur":508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":16, "ts":1788800259158060, "dur":781, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":16, "ts":1788800259159001, "dur":94, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/b7/b7c68bfb775083c6eeebb6aaed12d2d1.rgb" }}
+,{ "pid":12345, "tid":16, "ts":1788800259159142, "dur":66, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/ae/aee6e4f6b81a6062d72687caae142a29.caw" }}
+,{ "pid":12345, "tid":16, "ts":1788800259159262, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a5/a54cd06188629cc36bcc54b4ce7b7369.caw" }}
+,{ "pid":12345, "tid":16, "ts":1788800259159349, "dur":195, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/a3/a3a9ccd9dcd55bf910bba19ab5e65901.caw" }}
+,{ "pid":12345, "tid":16, "ts":1788800259159592, "dur":198, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/90/90a727cb59deea53a33a5335b85db6aa.caw" }}
+,{ "pid":12345, "tid":16, "ts":1788800259159791, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/81/81f9a497b2c31b12267fc808a4a01c42.ecm" }}
+,{ "pid":12345, "tid":16, "ts":1788800259159972, "dur":119, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/73/73aa82d97a3425692607f82d483532e8.vis" }}
+,{ "pid":12345, "tid":16, "ts":1788800259160167, "dur":191, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/5d/5d9fde11a9cc973bad0082f28fffcb99.rgb" }}
+,{ "pid":12345, "tid":16, "ts":1788800259160514, "dur":156, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/46/465f7ead87fbc0da9d67f7f4b4d615e8.vis" }}
+,{ "pid":12345, "tid":16, "ts":1788800259160767, "dur":79, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/35/35c9665726b543797b738a54e53f505c.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259160859, "dur":153, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/2d/2d4d8a11593b8524194b6e2743e4af9c.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259161113, "dur":235, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/1b/1be86a8ef5a90d5f30b1f5b9774236b2.iws.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259161396, "dur":79, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level4/03/03df7c668754c34690013d714f0beac5.ecm" }}
+,{ "pid":12345, "tid":16, "ts":1788800259161476, "dur":259, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff149493013f828351a8f69059cb2a7a.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259161753, "dur":112, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ff/ff149493013f828351a8f69059cb2a7a.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259161968, "dur":102, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/d7/d7c6ffdf14f039729df6bcacfaf29cb8.rsc.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259162168, "dur":75, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/be/be2974b912ebe00f21f8484e70e06c65.iws.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259162256, "dur":64, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b8/b84de6ebc319994c460800ba777705c2.vis" }}
+,{ "pid":12345, "tid":16, "ts":1788800259162329, "dur":82, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/b2/b20c859b1c83bc9e9f4d5534cc903d26.vis" }}
+,{ "pid":12345, "tid":16, "ts":1788800259162423, "dur":76, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/ab/ab5bd0d363cacd25faae06bafe1aad64.caw" }}
+,{ "pid":12345, "tid":16, "ts":1788800259162509, "dur":86, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/a4/a428e9206c972a735c5a23692ee0f0f1.iws.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259162669, "dur":264, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/94/949dd0c2dbd1bdb3bace46910e4bf3c7.rgb" }}
+,{ "pid":12345, "tid":16, "ts":1788800259162958, "dur":198, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/69/6906f0ae530d2bb5b66f0a2b3288d3fa.vis" }}
+,{ "pid":12345, "tid":16, "ts":1788800259163167, "dur":115, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/48/48c5c64facbaff7e37f010c6f892f566.rgb" }}
+,{ "pid":12345, "tid":16, "ts":1788800259163294, "dur":87, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/40/402fe6f39702c996d2ea4b98239ae66c.vis" }}
+,{ "pid":12345, "tid":16, "ts":1788800259163392, "dur":75, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/35/35c9665726b543797b738a54e53f505c.vis" }}
+,{ "pid":12345, "tid":16, "ts":1788800259163520, "dur":83, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/23/231b212b7c4e10eea6cb41ed977e3f3b.iws.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259163614, "dur":136, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/1a/1a8104bf58b8e000c839c39b6ac000ae.iws.sse" }}
+,{ "pid":12345, "tid":16, "ts":1788800259163773, "dur":59, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles D://demo/ExtremeWorld_Data/GI/level3/03/03df7c668754c34690013d714f0beac5.vis" }}
+,{ "pid":12345, "tid":16, "ts":1788800259163833, "dur":88, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1788800259168228, "dur":1383, "ph":"X", "name": "ProfilerWriteOutput" }
+,
